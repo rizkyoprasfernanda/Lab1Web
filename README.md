@@ -54,19 +54,6 @@ Penjelasan Tag yang Digunakan
 6.  Menyisipkan Gambar
 
 Membuat folder `images` di dalam folder praktikum.
-
-Struktur Folder
-
-text
-Lab1Web/
-├── index.html
-├── halaman2.html
-├── README.md
-└── images/
-└── profile.jpg
-
-```
-
 Atribut yang Digunakan
 
 - `src` untuk menentukan lokasi gambar.
@@ -127,4 +114,7 @@ Pada tahap terakhir seluruh elemen yang telah dipelajari digabungkan menjadi seb
 Hasil
 
 Halaman profil mahasiswa berhasil dibuat dengan menggabungkan navigasi, heading, gambar, paragraf, unordered list, dan ordered list.
+
+```
+
 ```
