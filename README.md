@@ -57,13 +57,15 @@ Membuat folder `images` di dalam folder praktikum.
 
 Struktur Folder
 
-```text
+text
 Lab1Web/
 ├── index.html
 ├── halaman2.html
 ├── README.md
 └── images/
-    └── profile.jpg
+└── profile.jpg
+
+```
 
 Atribut yang Digunakan
 
