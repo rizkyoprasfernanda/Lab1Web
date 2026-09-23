@@ -1,8 +1,8 @@
 LAPORAN PRAKTIKUM 1 PEMROGRAMAN WEB
 
-Nama: Rizky
+Nama : Rizky Opras Fernanda
 
-NIM: 312510101
+NIM : 312510101
 
 Kelas: I252A
 
@@ -10,7 +10,7 @@ Program Studi: Teknik Informatika
 
 Mata Kuliah: Pemrograman Web
 
-Langkah-Langkah Praktikum
+LANGKAH LANGKAH PRAKTIKUM
 
 1.  Persiapan Visual Studio Code dan Browser
 
