@@ -1,9 +1,13 @@
 LAPORAN PRAKTIKUM 1 PEMROGRAMAN WEB
 
-Nama: Rizky Opras Fernanda
+Nama: Rizky
+
 NIM: 312510101
+
 Kelas: I252A
+
 Program Studi: Teknik Informatika
+
 Mata Kuliah: Pemrograman Web
 
 Langkah-Langkah Praktikum
@@ -61,8 +65,6 @@ Atribut yang Digunakan
 - `alt` sebagai teks alternatif.
 - `title` sebagai informasi tambahan ketika kursor diarahkan ke gambar.
 
-Hasil
-
 7.  Mengatur Ukuran Gambar
 
 Nilai `width` dapat diubah untuk melihat perbedaan ukuran gambar pada browser.
@@ -114,7 +116,3 @@ Pada tahap terakhir seluruh elemen yang telah dipelajari digabungkan menjadi seb
 Hasil
 
 Halaman profil mahasiswa berhasil dibuat dengan menggabungkan navigasi, heading, gambar, paragraf, unordered list, dan ordered list.
-
-```
-
-```
